@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package foo;
+
+import "buf/validate/validate.proto";
